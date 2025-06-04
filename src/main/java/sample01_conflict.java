@@ -1,6 +1,6 @@
 
 public class sample01_conflict {
 	public static void main(String[] args) {
-		System.out.println("コンフリクト");
+		System.out.println("コンフリクトサンプル");
 	}
 }
